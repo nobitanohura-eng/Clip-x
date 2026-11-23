@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ClipAiV2" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/obsidian_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <color name="obsidian_bg">#0B0D12</color>
+</resources>

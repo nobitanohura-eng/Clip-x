@@ -1,0 +1,6 @@
+{
+  "name": "ClipAI v2",
+  "description": "Fully on-device auto video clipper with deterministic explainable scoring, 9:16 smart crop, Devanagari-safe karaoke captions, hook overlays, and verified export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

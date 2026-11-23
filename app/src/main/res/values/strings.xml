@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClipAI v2</string>
+    <string name="channel_pipeline_name">Clip Processing</string>
+    <string name="channel_pipeline_desc">Foreground progress for local video analysis and export.</string>
+</resources>
